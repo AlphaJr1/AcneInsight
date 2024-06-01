@@ -27,14 +27,14 @@ This project aims to analyze various factors influencing acne and predict future
   - Summary of the project outcomes.
   - Suggestions for future research and improvements.
 
-##Requirements
+## Requirements
 Python 3.x
 Jupyter Notebook
 Required Python packages (listed in requirements.txt)
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Ensure to follow the project's coding standards and guidelines.
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to the contributors and the open-source community for their valuable resources and tools.
 Gratitude to the data providers and researchers whose datasets were used in this analysis.
