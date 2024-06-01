@@ -1,6 +1,9 @@
 # AcneInsight
 This repository contains the code and resources for analyzing various factors influencing acne and predicting future trends using data analysis and machine learning techniques. The primary focus is to identify key predictors of acne and develop models that can forecast its occurrence based on historical data. The project utilizes a comprehensive dataset and applies various data preprocessing, exploratory data analysis (EDA), and machine learning techniques to achieve its objectives.
 
+Presentation:
+https://www.canva.com/design/DAGG5i3wrfw/a09qg1_x6ed1dAo2J9_r6A/view?utm_content=DAGG5i3wrfw&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Project Overview
 This project aims to analyze various factors influencing acne and predict future trends using data analysis and machine learning techniques. The notebook `Acne_Future.ipynb` contains detailed steps, code, and outputs related to this analysis.
 
